@@ -14,3 +14,12 @@
   float:inherit;
 
 }
+
+.row1 {background-color: black;
+  color: red;
+  font-size: 24px;
+  width: 50%;
+  text-align: center;
+  float:inherit;
+
+}
