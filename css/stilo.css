@@ -1,0 +1,16 @@
+.area1 {background-color: red;
+
+}
+
+.area2 {
+  background-color: green;
+}
+
+.row {background-color: black;
+  color: white;
+  font-size: 24px;
+  width: 50%;
+  text-align: center;
+  float:inherit;
+
+}
